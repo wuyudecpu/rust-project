@@ -1,16 +1,4 @@
-# rust-pacman
-
-Simple pacman implementation using [Piston-rs](https://www.piston.rs/) and OpenGl.
-
-## Running
-```Bash
-cargo run --release --bin pac
-```
-
-
-## Key bindings
-Vim keys or arrow keys for movement
-
-`P` to pause
-
-`Q` to quit
+rust编程练习——吃豆人游戏
+上下左右键移到
+p键暂停
+q键退出

@@ -12,6 +12,7 @@ pub struct App {
     position: (f64, f64),
 }
 
+
 impl App {
     fn render(&mut self, args: &RenderArgs) {
         use graphics::*;

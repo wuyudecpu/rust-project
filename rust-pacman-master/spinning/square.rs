@@ -4,6 +4,7 @@ use piston::input::*;
 use glutin_window::GlutinWindow as Window;
 use opengl_graphics::{ GlGraphics, OpenGL };
 
+
 pub struct App {
     gl: GlGraphics,
     rotation: f64,
